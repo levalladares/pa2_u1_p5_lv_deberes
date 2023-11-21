@@ -16,6 +16,7 @@ public class DeberesPa2Application implements CommandLineRunner {
 		// TODO Auto-generated method stub
 		System.out.println("<<<<<NUEVO PROYECTO>>>>>");
 		System.out.println("CAMBIO PARA SUBIR EN LA MISMA RAMA ");
+		System.out.println("CAMBIO PARA SUBIR EN OTRA RAMA");
 		
 	}
 
